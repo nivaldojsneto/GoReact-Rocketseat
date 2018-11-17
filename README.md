@@ -1,6 +1,6 @@
 # BootCamp GoReact Rocketseat
 
-###Fix npm run build
+### Fix npm run build
 
 In the third lesson of the first module **Environments and Concepts**, the **.babelrc** file is written as follows:
 
