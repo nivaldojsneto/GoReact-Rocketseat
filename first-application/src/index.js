@@ -1,1 +1,5 @@
-alert("Hello Nivaldo Neto");
+const func = (a, b) => {
+    return a + b;
+};
+
+alert(func(3, 5));
