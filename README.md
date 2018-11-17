@@ -18,7 +18,7 @@ Due to the use of the most up-to-date dependencies, a modification of the **.bab
 }
 ```
 
-#####Note: This happened due to the use of the most current dependencies. You may need to install some dependencies, the ones I needed to install were these:
+##### Note: This happened due to the use of the most current dependencies. You may need to install some dependencies, the ones I needed to install were these:
 
 `$ npm install -D @babel/preset-react @babel/preset-env @babel-core`
 
