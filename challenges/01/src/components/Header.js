@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => (
   <div className="header">
-    <h3>RocketBook</h3>
+    <h3>Nivaldo Neto - Front End | PRTE </h3>
   </div>
 );
 
