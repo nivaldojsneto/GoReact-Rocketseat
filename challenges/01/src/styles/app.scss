@@ -15,8 +15,8 @@ h4 {
 }
 
 .header {
-  background: #4267b2;
-  border-bottom: 1px solid #29487d;
+  background: #0b3b5c;
+  border-bottom: 1px solid #0b3b5c;
   height: 60px;
 
   display: flex;
@@ -39,7 +39,7 @@ h4 {
   width: 700px;
   padding: 30px;
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 25px;
   background-color: #ffffff;
   margin-top: 30px;
 
@@ -61,12 +61,12 @@ h4 {
 
       strong {
         font-size: 16px;
-        color: #666666;
+        color: #0b3b5c;
       }
 
       span {
         font-size: 14px;
-        color: #999999;
+        color: #0b3b5c;
         margin-top: 5px;
       }
     }
@@ -74,7 +74,7 @@ h4 {
 
   p {
     font-size: 16px;
-    color: #333333;
+    color: #0b3b5c;
     line-height: 24px;
     margin-top: 20px;
     padding-top: 20px;
